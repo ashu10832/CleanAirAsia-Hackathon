@@ -1,6 +1,8 @@
 # Clean Air Asia Hackathon
 Winning Prize
 
+Co-authors of the project: <a href="https://github.com/mayank408/">Mayank Tripathi</a>, <a href="https://github.com/ashu10832">Ashu Gupta</a>, <a href="https://github.com/shubhi-sareen"> Shubhi Sareen </a>
+
 # Good Air
 A Mobility based, air breathed tracker and corrector. Good air finds the AQI of different places even where there is no AQI reading mechanism is available, using machine learning algorithms.
 
